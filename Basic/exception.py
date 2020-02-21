@@ -32,4 +32,4 @@ for each in no :
     
     except ValueError :
          print("no should not be less than 0")
-        
+#1,3,4,6,no should not be less than 0,2           
